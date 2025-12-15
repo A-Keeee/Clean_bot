@@ -1,2 +1,2 @@
-# CLEAN_BOT microros-esp32上下位机通信
-参考小鱼FishBot运动控制程序MicroROS
+# CLEAN_BOT NAV代码
+参考小鱼fishbot导航
